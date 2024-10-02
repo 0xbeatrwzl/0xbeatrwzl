@@ -8,3 +8,15 @@
 <div align=center>
   <h2>~ $ whoami</h2>
 </div>
+
+Empty...
+
+<div align=center>
+  <h2>~ $ cat achievements.txt</h2>
+</div>
+
+<details>
+  <summary>Books</summary>
+  - Teste A
+  - Teste B
+</details>
