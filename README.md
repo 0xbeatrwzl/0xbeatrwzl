@@ -24,4 +24,6 @@ Empty...
   - [ ] Teste A
   - [ ] Teste B
 
+  <summary>Certifications</summary>
+  </br>
 </details>
