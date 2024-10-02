@@ -21,9 +21,19 @@ Empty...
   <summary>Books</summary>
   </br>
   
-  - [ ] Teste A
-  - [ ] Teste B
+  - [ ] ...
+</details>
 
+<details>
   <summary>Certifications</summary>
   </br>
+  
+  - [ ] ...
+</details>
+
+<details>
+  <summary>Courses</summary>
+  </br>
+  
+  - [ ] ...
 </details>
