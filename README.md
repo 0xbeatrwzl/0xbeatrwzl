@@ -18,7 +18,7 @@ Empty...
 </div>
 
 <details>
-  <summary>Books</summary>
+  <summary>Books</br></summary>
  
   - [ ] Teste A
   - [ ] Teste B
