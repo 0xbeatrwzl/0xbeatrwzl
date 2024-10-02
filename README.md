@@ -22,6 +22,7 @@ Empty...
   </br>
   
   - [ ] ...
+  </br>
 </details>
 
 <details>
@@ -29,6 +30,7 @@ Empty...
   </br>
   
   - [ ] ...
+  </br>
 </details>
 
 <details>
@@ -36,4 +38,5 @@ Empty...
   </br>
   
   - [ ] ...
+  </br>
 </details>
