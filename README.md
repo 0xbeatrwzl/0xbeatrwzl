@@ -19,10 +19,8 @@ Empty...
 
 <details>
   <summary>Books</summary>
-  <md-block>
+ 
   - [ ] Teste A
-  - Teste B
-  </md-block>
-</details>
+  - [ ] Teste B
 
-- [ ] teste
+</details>
