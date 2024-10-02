@@ -11,6 +11,8 @@
 
 Empty...
 
+</br></br>
+
 <div align=center>
   <h2>~ $ cat achievements.txt</h2>
 </div>
